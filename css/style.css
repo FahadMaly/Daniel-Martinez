@@ -1,0 +1,139 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+a{
+	text-decoration: none;
+}
+.banner-menu{
+	background-color:#055052;
+}
+.banner{
+	display: flex;
+}
+.menubar ul li{
+  list-style: none;
+  display: inline-block;
+  padding-right: 16px;
+  padding-top: 15px;
+}
+.menubar ul li a{
+	color: white;
+}
+.menubar h2{
+	color: yellow;
+}
+.menubar{
+	padding: 20px;
+}
+.homepage{
+	padding: 130px;
+}
+.homepage h1{
+    font-size: 57px;
+    color: white;
+}
+.homepage h3{
+	color: yellow;
+	font-size: 30px;
+}
+.homepage p{
+	color: white;
+}
+.about-me{
+	background-color:#D6D2C4;
+	text-align: center;
+	padding: 0px 250px;
+	 padding-bottom: 40px;
+}
+.about-me h2{
+	font-size: 45px;
+	padding: 45px;
+	color: #055052;
+}
+.para p{
+	padding-bottom: 16px;
+	letter-spacing: 2px;
+	line-height: 2;
+}
+.about-me p{
+	padding-bottom: 16px;
+	letter-spacing: 2px;
+	line-height: 2;
+}
+.about-me button{
+   background-color: yellow;
+   border: 0px;
+   padding: 10px 30px;
+   color: #055052;
+}
+ .Showreel{
+ 	text-align: center;
+ 	color: #055052;
+ 	padding: 50px;
+    font-size: 40px;
+}
+.showpic img{
+	width: 100%;
+	background-repeat: no-repeat;
+}
+.photos{
+	text-align: center;
+ 	color: #055052;
+ 	padding: 50px;
+    font-size: 40px;
+}
+.lotpic img{
+	width: 100%;
+	background-repeat:no-repeat;
+}
+.bottom{
+	display: flex;
+	background-color: #055052;
+	margin-top: 80px;
+}
+.contact{
+	color: white;
+	padding-left: 100px;	
+}
+.contant-text h1{
+	color: yellow;
+	padding-top: 40px;
+}
+.contant-text h4{
+	padding: 16px 0px;
+}
+.text-iteam{
+	padding-bottom: 16px;
+}
+.media{
+	display: flex;
+	justify-content: space-between;
+}
+.copyright{
+	text-align: center;
+	padding: 50px;
+}
+.copyright h5 a{
+	color: black;
+	text-decoration: underline;
+}
+.icon{
+	background-color: yellow;
+	margin: auto 0px;
+}
+.fb{
+	padding: 08px 05px;
+}
+.twit{
+	padding: 08px 05px;
+}
+.insta{
+	padding: 08px 05px;
+}
+.ytube{
+	padding: 08px 05px;
+}
+.menuppic{
+	display: flex;
+}
